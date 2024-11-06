@@ -1,0 +1,14 @@
+C:\Users\cigo_\source\repos\SiparişPuanAlgoritması\SiparişPuanAlgoritması\bin\Debug\net8.0\SiparişPuanAlgoritması.exe
+C:\Users\cigo_\source\repos\SiparişPuanAlgoritması\SiparişPuanAlgoritması\bin\Debug\net8.0\SiparişPuanAlgoritması.deps.json
+C:\Users\cigo_\source\repos\SiparişPuanAlgoritması\SiparişPuanAlgoritması\bin\Debug\net8.0\SiparişPuanAlgoritması.runtimeconfig.json
+C:\Users\cigo_\source\repos\SiparişPuanAlgoritması\SiparişPuanAlgoritması\bin\Debug\net8.0\SiparişPuanAlgoritması.dll
+C:\Users\cigo_\source\repos\SiparişPuanAlgoritması\SiparişPuanAlgoritması\bin\Debug\net8.0\SiparişPuanAlgoritması.pdb
+C:\Users\cigo_\source\repos\SiparişPuanAlgoritması\SiparişPuanAlgoritması\obj\Debug\net8.0\SiparişPuanAlgoritması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cigo_\source\repos\SiparişPuanAlgoritması\SiparişPuanAlgoritması\obj\Debug\net8.0\SiparişPuanAlgoritması.AssemblyInfoInputs.cache
+C:\Users\cigo_\source\repos\SiparişPuanAlgoritması\SiparişPuanAlgoritması\obj\Debug\net8.0\SiparişPuanAlgoritması.AssemblyInfo.cs
+C:\Users\cigo_\source\repos\SiparişPuanAlgoritması\SiparişPuanAlgoritması\obj\Debug\net8.0\SiparişPuanAlgoritması.csproj.CoreCompileInputs.cache
+C:\Users\cigo_\source\repos\SiparişPuanAlgoritması\SiparişPuanAlgoritması\obj\Debug\net8.0\SiparişPuanAlgoritması.dll
+C:\Users\cigo_\source\repos\SiparişPuanAlgoritması\SiparişPuanAlgoritması\obj\Debug\net8.0\refint\SiparişPuanAlgoritması.dll
+C:\Users\cigo_\source\repos\SiparişPuanAlgoritması\SiparişPuanAlgoritması\obj\Debug\net8.0\SiparişPuanAlgoritması.pdb
+C:\Users\cigo_\source\repos\SiparişPuanAlgoritması\SiparişPuanAlgoritması\obj\Debug\net8.0\SiparişPuanAlgoritması.genruntimeconfig.cache
+C:\Users\cigo_\source\repos\SiparişPuanAlgoritması\SiparişPuanAlgoritması\obj\Debug\net8.0\ref\SiparişPuanAlgoritması.dll
